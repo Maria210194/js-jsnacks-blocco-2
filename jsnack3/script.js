@@ -1,5 +1,3 @@
-console.log('OK JS');
-
 const primo = [77, 30, 100, 7, 5, 21, 68];
 const secondo = [2, 5];
 let check = false;
